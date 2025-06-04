@@ -1,0 +1,9 @@
+success
+success
+success
+success
+success
+success
+x//1 y//1 z//1
+success
+t//0 z//0 y//0 x//0

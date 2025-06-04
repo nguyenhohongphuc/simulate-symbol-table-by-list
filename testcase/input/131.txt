@@ -1,0 +1,2 @@
+INSERT vt_ltnc
+BEGIN

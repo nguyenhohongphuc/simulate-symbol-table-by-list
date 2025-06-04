@@ -1,0 +1,13 @@
+INSERT x number
+INSERT y string
+BEGIN
+INSERT z number
+ASSIGN x 123
+LOOKUP x
+LOOKUP z
+BEGIN
+INSERT y string
+LOOKUP y
+END
+LOOKUP y
+END

@@ -1,0 +1,3 @@
+PRINT
+INSERT x number
+PRINT

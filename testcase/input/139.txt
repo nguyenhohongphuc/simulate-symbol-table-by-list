@@ -1,0 +1,5 @@
+INSERT a number
+BEGIN
+INSERT a string
+ASSIGN a 1
+END

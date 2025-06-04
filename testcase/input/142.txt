@@ -1,0 +1,5 @@
+INSERT y string
+BEGIN
+INSERT y string
+ASSIGN y y
+END
